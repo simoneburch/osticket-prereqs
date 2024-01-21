@@ -61,7 +61,7 @@ In this step, I registered PHP from within IIS. The steps taken are the followin
 
 </p>
 <p>
-In this image, you find the completed installation of osTicket v1.15.8 following these final steps in our installation from our prerequisites. 
+In this image, you find the completed installation of osTicket v1.15.8 following these final steps in our installation from our prerequisites.
   
   - Install the osTicket file
   - Extract and copy the "upload" folder to c:\inetpub\wwwroot
