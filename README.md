@@ -87,4 +87,4 @@ In this image, you find the completed installation of osTicket v1.15.8 following
 
 <h2>End of Prerequisites and Installation</h2>
 
-**Continue with osTicket Configuration in the next tutorial*
+***Continue with *osTicket - Post-Installation Configuration Steps* in the next tutorial**
